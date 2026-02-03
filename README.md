@@ -1,3 +1,2 @@
 # hello profesor Williams
-Practice problem for GitHub
-My name is Harry. 
+My name is Harry Espiritu
